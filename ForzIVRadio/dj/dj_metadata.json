@@ -1,0 +1,17 @@
+{
+  "sound_134.wav": {
+    "music_start_ms": 3500,
+    "fade_in_ms": 6000,
+    "start_volume_db": -18
+  },
+  "sound_178.wav": {
+    "music_start_ms": 1200,
+    "fade_in_ms": 4000,
+    "start_volume_db": -14
+  },
+  "sound_185.wav": {
+    "music_start_ms": 0,
+    "fade_in_ms": 3000,
+    "start_volume_db": -12
+  }
+}

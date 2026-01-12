@@ -6,9 +6,14 @@ Download the .zip file of your desired radio station, unzip, and place the (stat
 - [FFmpeg Essentials](https://ffmpeg.org/)
 
 Download FFmpeg, unzip, and copy the path to ffmpeg.exe (should be in the bin folder). Win + r to sysdm.cpl, select Advanced -> Environment Variables -> Path -> Edit -> New -> paste ffmpeg.exe path and save. Run ```ffmpeg -version``` in your terminal, a successful installation will return version info.
+
 - [Pydub](https://github.com/jiaaro/pydub)
 
-Simply ```pip install pydub``` in your terminal and you should be good to go!
+```pip install pydub``` in your terminal
+
+- [pyloudnorm]([https://github.com/jiaaro/pydub](https://github.com/csteinmetz1/pyloudnorm/releases/tag/v0.2.0))
+
+```pip install pyloudnorm``` in your terminal and you should be good to go!
 #
   ForzIVRadio takes any .mp3, .wav, .ogg, .flac, .m4a, or .aac files and combines them with DJ commentary for a 100% game-realistic custom radio station!
 To use ForzIVRadio, drag and drop your desired music tracks into the "music" folder and run. Your immersive playlist will pop out as a single .wav in the "output" folder.

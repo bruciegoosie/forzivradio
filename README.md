@@ -11,7 +11,7 @@ Download FFmpeg, unzip, and copy the path to ffmpeg.exe (should be in the bin fo
 
 ```pip install pydub``` in your terminal
 
-- [pyloudnorm]([https://github.com/jiaaro/pydub](https://github.com/csteinmetz1/pyloudnorm/releases/tag/v0.2.0))
+- [pyloudnorm](https://github.com/csteinmetz1/pyloudnorm/releases/tag/v0.2.0)
 
 ```pip install pyloudnorm``` in your terminal and you should be good to go!
 #
